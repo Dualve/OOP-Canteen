@@ -1,7 +1,7 @@
 #Lab №13(Python and OOP. Classes design and implementation. Creation and manipulation objects)
 
 #CANTEEN
-#Created by Lebed A.S. and Dubodelov A.V.
+#Created by Dubodelov A.V. and Lebed A.S.
 #Version: 1.5
 #Group: 10701118
 #Date: 10.03.2019
